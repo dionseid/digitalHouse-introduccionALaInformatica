@@ -1,0 +1,6 @@
+Por qué un lenguaje de programación sole puede utilizarse en algunos sistemas operativos y en otros no?
+Porque depende de cómo se transforme en lenguaje máquina. Por ejemplo, si es compilado, dependerá de la arquitectura del procesador para poder funcionar.
+Qué tipo de máquina virtual es virtualBox?
+Es un VM para sistemas operativos
+Si tengo más de un máquina virtual instalada, y una se rompe, este afecta a las demás? por qué?
+Si una se rompe, no afecta al resto, ya que funcionan de manera independiente
